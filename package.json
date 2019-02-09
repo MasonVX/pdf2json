@@ -67,5 +67,8 @@
       "url": "https://github.com/modesty/pdf2json/blob/master/license.txt"
     }
   ],
+  "pkg": {
+    "assets": "base/**/*.js"
+  },
   "readme": "https://github.com/modesty/pdf2json/blob/master/readme.md"
 }
